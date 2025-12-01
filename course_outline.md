@@ -12,8 +12,8 @@ This package contains:
 - Release cadence: one assignment every ~1.5–2 weeks; allow overlap if students move faster.
 
 ## Assignment Sequence & Suggested Windows
-- Week 1: A1 Orientation + Personal Profile (formative; due end of Week 1)
-- Weeks 1–2: A1B Personal Interest Proposal (due end of Week 2)
+- Week 1: A1 Digital Scavenger Hunt (onboarding; due end of Week 1; 2%)
+- Weeks 1–2: A1B Personal Interest Proposal (due end of Week 2; 8%)
 - Weeks 3–4: A2 Essential Skills Application (due mid-Week 4)
 - Weeks 5–6: A3 Self-Management & Teamwork (due end of Week 6)
 - Weeks 7–9: A4 Career Exploration (due end of Week 9)
@@ -23,8 +23,8 @@ This package contains:
 - Weeks 18–20: Final Summative — Google Sites Portfolio (due end of Week 20); Weeks 21–22 held for catch-up and conferencing
 
 ## Assessment Weights (suggested)
-- A1 Orientation: formative (0%)  
-- A1B: 10%  
+- A1 Digital Scavenger Hunt: 2%  
+- A1B Personal Interest Proposal: 8%  
 - A2–A6: 10% each  
 - A7: 15%  
 - Final Portfolio: 25%  

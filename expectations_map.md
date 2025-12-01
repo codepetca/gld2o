@@ -8,8 +8,8 @@ Purpose: track coverage of GLD2O overall/specific expectations across assignment
 - Exploration of Opportunities: research education/work opportunities; describe opportunities and preparation; understand workplace expectations/issues; follow health/safety policies.
 
 ## Assignment Coverage
-- A1 Orientation + Personal Profile (formative): Personal Management (self-knowledge, goal setting; linking experiences to planning).
-- A1B Personal Interest Proposal: Personal Management (motivation, goal clarity); Exploration (initial planning of opportunities/resources).
+- A1 Digital Scavenger Hunt (onboarding): workflow practice, tech readiness, and following instructions (low weight; supports Criterion 3 habits).
+- A1B Personal Interest Proposal: Personal Management (self-knowledge, motivation, goal clarity); Exploration (initial planning of opportunities/resources).
 - A2 Essential Skills Application: Essential Skills (identification, transferability, literacy/numeracy tasks; documentation of skill use).
 - A3 Self-Management & Teamwork: Personal Management (self-management strategies, interpersonal/teamwork skills, task planning).
 - A4 Career Exploration: Exploration of Opportunities (inquiry into occupations; education/training paths; workplace expectations).
