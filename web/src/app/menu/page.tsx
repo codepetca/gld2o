@@ -23,11 +23,6 @@ export default async function MenuPage() {
     <main className="shell">
       <p className="eyebrow">Internal</p>
       <h1>Quick Menu</h1>
-      <p>
-        Teacher-facing list of pages. Share only the specific links you want
-        students to see in Google Classroom.
-      </p>
-
       <section style={{ marginTop: "20px" }}>
         <h2>Assignments</h2>
         <ul>
