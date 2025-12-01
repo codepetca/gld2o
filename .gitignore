@@ -1,2 +1,7 @@
 .DS_Store
 __pycache__/
+node_modules/
+web/.next/
+web/node_modules/
+web/out/
+web/.vercel/
