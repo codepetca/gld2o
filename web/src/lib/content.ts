@@ -46,6 +46,9 @@ async function readContentFromDir(
   dir: string,
   type: ContentType
 ): Promise<ContentItem[]> {
+  // Debug log to confirm paths during build/runtime
+  // eslint-disable-next-line no-console
+  console.log(`[content] reading ${type} from ${dir}`);
   const files = await fs.readdir(dir);
 
   const mdxFiles = files.filter((file) => file.endsWith(".mdx"));
@@ -80,7 +83,12 @@ export async function getAllContent(): Promise<ContentItem[]> {
     readContentFromDir(assignmentsDir, "assignment"),
     readContentFromDir(resourcesDir, "resource"),
   ]);
-  return [...assignments, ...resources];
+  const items = [...assignments, ...resources];
+  // eslint-disable-next-line no-console
+  console.log(
+    `[content] loaded ${assignments.length} assignments, ${resources.length} resources`
+  );
+  return items;
 }
 
 export async function getAllSlugs(): Promise<string[]> {
@@ -92,5 +100,12 @@ export async function getContentBySlug(
   slug: string
 ): Promise<ContentItem | null> {
   const items = await getAllContent();
-  return items.find((item) => item.meta.slug === slug) ?? null;
+  const found = items.find((item) => item.meta.slug === slug) ?? null;
+  // eslint-disable-next-line no-console
+  console.log(
+    `[content] lookup slug=${slug} found=${Boolean(found)}; slugs=${items
+      .map((i) => i.meta.slug)
+      .join(",")}`
+  );
+  return found;
 }

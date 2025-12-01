@@ -8,13 +8,18 @@ type Params = {
   params: { slug: string };
 };
 
+export const dynamic = "force-static";
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const slugs = await getAllSlugs();
+  console.log("[static-params] slugs", slugs);
   return slugs.map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
-  const item = await getContentBySlug(params.slug);
+  const resolved = await Promise.resolve(params as any);
+  const item = await getContentBySlug(resolved.slug);
   if (!item) {
     return { title: "Not found | GLD2O" };
   }
@@ -22,7 +27,9 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 }
 
 export default async function ContentPage({ params }: Params) {
-  const item = await getContentBySlug(params.slug);
+  const resolved = await Promise.resolve(params as any);
+  console.log("[page] params", resolved);
+  const item = await getContentBySlug(resolved.slug);
   if (!item) {
     return notFound();
   }
