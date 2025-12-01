@@ -11,18 +11,18 @@ Goal: keep GLD2O course content coherent across Google Classroom and the link-on
 ## File Layout (repo root)
 - `assignments/` — legacy text versions (keep in sync when updating).
 - `resources/` — text guides/checklists.
-- `web/` — Next.js app (App Router); MDX assignments in `web/content/units/<unit>/assignments`, resources in `web/content/resources`.
+- `web/` — Next.js app (App Router); MDX content in `web/content/assignments` and `web/content/resources`.
 - `course_outline.md`, `final_portfolio_site.md`, `expectations_map.md` — teacher-facing references.
 
 ## Content Rules
-- Keep slugs stable (`a1`…`a7`, `final-portfolio`, resource slugs). Do not rename without strong reason. Units: `unit01`–`unit08`.
-- Frontmatter fields for assignments: `id`, `slug`, `unit`, `title`, `gcUrl` (optional return link), `dueWindow`, `weight`.
+- Keep slugs stable (`a1`…`a7`, `final-portfolio`, resource slugs). Do not rename without strong reason.
+- Frontmatter fields for assignments: `id`, `slug`, `title`, `gcUrl` (optional return link), `dueWindow`, `weight`.
 - Per-assignment bodies must include: purpose, learning goals, steps, deliverable, submission steps, success criteria. Keep Pika reminder.
 - Resources are reusable guides (rubric, submission guide, resume tips, etc.).
 
 ## Editing Workflow
 1) Update MDX in `web/content/...`; mirror major text changes to `assignments/*.txt` for Classroom copy-paste.
-2) If adding a new page: add MDX with frontmatter + body; slug lowercase/kebab; place under the right unit folder (assignments) or `content/resources` (resources).
+2) If adding a new page: add MDX with frontmatter + body; slug lowercase/kebab; add to `content/assignments` or `content/resources`.
 3) For GC return links: set `gcUrl` in frontmatter to the Classroom post URL (optional).
 4) Run `cd web && npm run build` locally; fix lint/TypeScript if any.
 5) Commit/push to `main`; Vercel builds from `web/` root (build `npm run build`, output `.next`).
