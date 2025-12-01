@@ -13,7 +13,14 @@ export default async function MenuPage() {
 
   const assignments = items
     .filter((i) => i.meta.type === "assignment")
-    .sort((a, b) => a.meta.slug.localeCompare(b.meta.slug));
+    .sort((a, b) => {
+      const unitA = a.meta.unit ?? "";
+      const unitB = b.meta.unit ?? "";
+      if (unitA === unitB) {
+        return a.meta.slug.localeCompare(b.meta.slug);
+      }
+      return unitA.localeCompare(unitB);
+    });
 
   const resources = items
     .filter((i) => i.meta.type === "resource")
@@ -27,9 +34,10 @@ export default async function MenuPage() {
         <h2>Assignments</h2>
         <ul>
           {assignments.map((item) => (
-            <li key={item.meta.slug}>
-              <Link href={`/${item.meta.slug}`}>
-                {item.meta.slug.toUpperCase()} — {item.meta.title}
+            <li key={`${item.meta.unit}-${item.meta.slug}`}>
+              <Link href={`/${item.meta.unit}/${item.meta.slug}`}>
+                {item.meta.unit?.toUpperCase()} / {item.meta.slug.toUpperCase()} —{" "}
+                {item.meta.title}
               </Link>
             </li>
           ))}

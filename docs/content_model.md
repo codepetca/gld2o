@@ -3,12 +3,14 @@
 Static, link-only site; pages are generated from MDX at build time.
 
 ## Assignments
-- Location: `web/content/assignments/*.mdx`
+- Location: `web/content/units/<unit>/assignments/*.mdx`
+- Units: `unit01`–`unit08` (Orientation → Final Portfolio).
 - Slugs: `a1`–`a7`, `final-portfolio` (stable; use lowercase/kebab).
 - Frontmatter:
   - `id` (string) — usually same as slug.
-  - `slug` (string) — URL segment (`/a1`).
+  - `slug` (string) — URL segment (`/unit01/a1`).
   - `title` (string).
+  - `unit` (string) — e.g., `unit01`.
   - `gcUrl` (string, optional) — Classroom post link for “Open in Google Classroom” button.
   - `dueWindow` (string) — e.g., “End of Week 2”.
   - `weight` (number) — percent weighting (A1–A6 =10, A7=15, Final=25).
@@ -21,13 +23,13 @@ Static, link-only site; pages are generated from MDX at build time.
 - Body: reusable guidance (rubric, checklists, tips).
 
 ## Rendering
-- Route pattern: `/[slug]` for assignments/resources; `/menu` for teacher navigation; `/` for “use links in GC”.
+- Route pattern: `/unitXX/<slug>` for assignments; `/[slug]` for resources; `/menu` for teacher navigation; `/` for “use links in GC”.
 - `gcUrl` shows an “Open in Google Classroom” button when present.
 - `robots.txt` blocks indexing.
 - No student navigation; `/menu` is public but unlinked.
 
 ## Adding Pages
-1) Create MDX with frontmatter and body in the appropriate folder.
-2) Keep slug short, lowercase; avoid spaces.
+1) Create MDX with frontmatter and body under `web/content/units/<unit>/assignments` (or `web/content/resources`).
+2) Keep slug short, lowercase; avoid spaces. Set `unit` in frontmatter for assignments.
 3) Run `cd web && npm run build` to confirm SSG succeeds.
 4) Commit/push; Vercel deploys with root `web/`.

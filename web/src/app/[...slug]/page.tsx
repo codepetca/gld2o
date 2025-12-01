@@ -2,24 +2,26 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
-import { getAllSlugs, getContentBySlug } from "@/lib/content";
+import { getAllPaths, getContentByRoute } from "@/lib/content";
 
 type Params = {
-  params: { slug: string };
+  params: { slug: string[] };
 };
 
 export const dynamic = "force-static";
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  const slugs = await getAllSlugs();
-  console.log("[static-params] slugs", slugs);
-  return slugs.map((slug) => ({ slug }));
+  const paths = await getAllPaths();
+  console.log("[static-params] paths", paths);
+  return paths.map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const resolved = await Promise.resolve(params as any);
-  const item = await getContentBySlug(resolved.slug);
+  const item = await getContentByRoute(
+    Array.isArray(resolved.slug) ? resolved.slug : [resolved.slug]
+  );
   if (!item) {
     return { title: "Not found | GLD2O" };
   }
@@ -29,7 +31,10 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
 export default async function ContentPage({ params }: Params) {
   const resolved = await Promise.resolve(params as any);
   console.log("[page] params", resolved);
-  const item = await getContentBySlug(resolved.slug);
+  const slugParts = Array.isArray(resolved.slug)
+    ? resolved.slug
+    : [resolved.slug];
+  const item = await getContentByRoute(slugParts);
   if (!item) {
     return notFound();
   }
