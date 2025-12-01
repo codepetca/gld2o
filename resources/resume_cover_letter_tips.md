@@ -1,0 +1,17 @@
+# Resume & Cover Letter Tips (for A6)
+
+Resume
+- Keep to one page; use a simple, readable layout.
+- Start each bullet with an action verb and a result (e.g., “Organized weekly club meetings for 12 students; improved attendance by 25%”).
+- Tailor to the posting: mirror the top 3–4 requirements in your bullets.
+- Include community, school, volunteer, or family responsibilities if you lack formal work experience.
+
+Cover Letter
+- One page, three short paragraphs: (1) why this role/organization, (2) how you meet the top requirements with examples, (3) your next step (“I’m available for an interview…”).
+- Address to a person if possible; otherwise use “Hiring Manager.”
+- Match your tone to the role (professional and direct).
+
+Checklist before submitting
+- Spellcheck/grammar check.
+- File names: `LastName_Resume` and `LastName_CoverLetter`.
+- Make sure the posting link is attached in Classroom with your documents.
