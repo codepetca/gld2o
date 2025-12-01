@@ -1,4 +1,5 @@
 import fs from "fs/promises";
+import fsSync from "fs";
 import path from "path";
 import matter from "gray-matter";
 
@@ -19,7 +20,25 @@ export type ContentItem = {
   body: string;
 };
 
-const contentRoot = path.join(process.cwd(), "content");
+function resolveContentRoot() {
+  const cwd = process.cwd();
+  const candidates = [
+    path.join(cwd, "content"), // when root is set to web/
+    path.join(cwd, "web", "content"), // when root is repo root
+  ];
+
+  for (const candidate of candidates) {
+    if (fsSync.existsSync(candidate)) {
+      return candidate;
+    }
+  }
+
+  throw new Error(
+    `Content directory not found. Tried: ${candidates.join(", ")}`
+  );
+}
+
+const contentRoot = resolveContentRoot();
 const assignmentsDir = path.join(contentRoot, "assignments");
 const resourcesDir = path.join(contentRoot, "resources");
 
@@ -27,12 +46,7 @@ async function readContentFromDir(
   dir: string,
   type: ContentType
 ): Promise<ContentItem[]> {
-  let files: string[] = [];
-  try {
-    files = await fs.readdir(dir);
-  } catch (err) {
-    return [];
-  }
+  const files = await fs.readdir(dir);
 
   const mdxFiles = files.filter((file) => file.endsWith(".mdx"));
 
