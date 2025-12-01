@@ -3,7 +3,7 @@ import fsSync from "fs";
 import path from "path";
 import matter from "gray-matter";
 
-export type ContentType = "assignment" | "resource";
+export type ContentType = "assignment" | "resource" | "material";
 
 export type ContentMeta = {
   id: string;
@@ -39,6 +39,7 @@ function resolveContentRoot() {
 const contentRoot = resolveContentRoot();
 const assignmentsDir = path.join(contentRoot, "assignments");
 const resourcesDir = path.join(contentRoot, "resources");
+const materialsDir = path.join(contentRoot, "materials");
 
 async function readContentFromDir(
   dir: string,
@@ -75,14 +76,15 @@ async function readContentFromDir(
 }
 
 export async function getAllContent(): Promise<ContentItem[]> {
-  const [assignments, resources] = await Promise.all([
+  const [assignments, materials, resources] = await Promise.all([
     readContentFromDir(assignmentsDir, "assignment"),
+    readContentFromDir(materialsDir, "material").catch(() => []),
     readContentFromDir(resourcesDir, "resource"),
   ]);
-  const items = [...assignments, ...resources];
+  const items = [...assignments, ...materials, ...resources];
   // eslint-disable-next-line no-console
   console.log(
-    `[content] loaded ${assignments.length} assignments, ${resources.length} resources`
+    `[content] loaded ${assignments.length} assignments, ${materials.length} materials, ${resources.length} resources`
   );
   return items;
 }

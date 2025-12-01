@@ -35,13 +35,17 @@ export default async function ContentPage({ params }: Params) {
   }
 
   const { meta, body } = item;
+  const eyebrow =
+    meta.type === "assignment"
+      ? "Assignment"
+      : meta.type === "material"
+      ? "Material"
+      : "Resource";
 
   return (
     <main className="shell">
       <header className="page-header">
-        <p className="eyebrow">
-          {meta.type === "assignment" ? "Assignment" : "Resource"}
-        </p>
+        <p className="eyebrow">{eyebrow}</p>
         <h1>{meta.title}</h1>
         {meta.gcUrl ? (
           <a

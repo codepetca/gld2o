@@ -19,6 +19,10 @@ export default async function MenuPage() {
     .filter((i) => i.meta.type === "resource")
     .sort((a, b) => a.meta.slug.localeCompare(b.meta.slug));
 
+  const materials = items
+    .filter((i) => i.meta.type === "material")
+    .sort((a, b) => a.meta.slug.localeCompare(b.meta.slug));
+
   return (
     <main className="shell">
       <p className="eyebrow">Internal</p>
@@ -35,6 +39,21 @@ export default async function MenuPage() {
           ))}
         </ul>
       </section>
+
+      {materials.length ? (
+        <section style={{ marginTop: "24px" }}>
+          <h2>Materials</h2>
+          <ul>
+            {materials.map((item) => (
+              <li key={item.meta.slug}>
+                <Link href={`/${item.meta.slug}`}>
+                  {item.meta.slug.toUpperCase()} — {item.meta.title}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ) : null}
 
       <section style={{ marginTop: "24px" }}>
         <h2>Resources</h2>
