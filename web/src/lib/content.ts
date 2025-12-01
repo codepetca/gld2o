@@ -11,8 +11,6 @@ export type ContentMeta = {
   title: string;
   type: ContentType;
   gcUrl?: string;
-  dueWindow?: string;
-  weight?: number;
 };
 
 export type ContentItem = {
@@ -66,8 +64,6 @@ async function readContentFromDir(
         slug,
         title: front.title ?? slug,
         gcUrl: front.gcUrl ?? "",
-        dueWindow: front.dueWindow,
-        weight: front.weight,
         type,
       };
 

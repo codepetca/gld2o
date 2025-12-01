@@ -43,14 +43,6 @@ export default async function ContentPage({ params }: Params) {
           {meta.type === "assignment" ? "Assignment" : "Resource"}
         </p>
         <h1>{meta.title}</h1>
-        <div className="meta-row">
-          {typeof meta.weight === "number" ? (
-            <span className="pill">Weight: {meta.weight}%</span>
-          ) : null}
-          {meta.dueWindow ? (
-            <span className="pill">Due: {meta.dueWindow}</span>
-          ) : null}
-        </div>
         {meta.gcUrl ? (
           <a
             className="gc-button"

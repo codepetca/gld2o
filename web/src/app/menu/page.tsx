@@ -30,8 +30,7 @@ export default async function MenuPage() {
             <li key={item.meta.slug}>
               <Link href={`/${item.meta.slug}`}>
                 {item.meta.slug.toUpperCase()} — {item.meta.title}
-              </Link>{" "}
-              {item.meta.dueWindow ? `(${item.meta.dueWindow})` : null}
+              </Link>
             </li>
           ))}
         </ul>
