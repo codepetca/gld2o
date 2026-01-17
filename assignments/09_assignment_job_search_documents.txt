@@ -1,0 +1,32 @@
+A9 Job Search Documents
+
+Purpose: Create a resume and cover letter using AI, and prepare for interviews.
+
+What to do:
+1) Resume (use AI to iterate):
+   - Use an AI tool (ChatGPT, Claude, Copilot, etc.) to draft your resume.
+   - Give it the job posting from A8 and your experience/skills.
+   - Paste each draft and note what you asked the AI to change and why.
+   - Keep refining until you have a resume you're proud of.
+   - You can keep editing after submitting — this is yours to use IRL.
+
+2) Cover letter (use AI to iterate):
+   - Same process: use AI to draft, paste each version, note your changes.
+   - Final version should be targeted to the posting and sound like you.
+
+3) Interview prep:
+   - List 2 common interview questions for your target role.
+   - Write brief answers to each.
+   - Note one thing about non-verbal communication (dress, eye contact, body language) that matters for this role.
+
+4) Reflection (4–6 sentences):
+   - What do you still need to learn or gain to be competitive for this role?
+   - What did you learn about using AI for professional documents? (What worked, what didn't, what surprised you?)
+
+How to submit:
+- Complete this assignment in Pika.
+
+Success criteria (/15):
+- Completion: resume, cover letter, interview prep, and reflection are present.
+- Thinking/communication: documents targeted to the posting; AI iteration shows thoughtful refinement.
+- Workflow/authenticity: multiple drafts visible with notes on changes, your own words.
