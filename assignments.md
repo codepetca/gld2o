@@ -60,6 +60,8 @@ Due: 2026-02-20
 
 Purpose: Practice workplace essential skills and show how you apply them.
 
+The skills in this assignment come from the Ontario Skills Passport (OSP). To learn more, visit https://www.skillszone.ca
+
 What to do:
 1) Skill snapshot:
    Digital skills and AI has increasingly become essential in the workplace.
