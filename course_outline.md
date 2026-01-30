@@ -3,7 +3,7 @@
 This package contains:
 - Course outline with pacing and release cadence
 - Pika-ready assignments (A1–A10) organized into 5 units
-- Universal rubric (/15) used for all submissions
+- Universal rubric (/30) used for all submissions
 - Resources folder (templates, guides)
 
 ## Pacing & Weekly Rhythm
@@ -47,7 +47,7 @@ Final portfolio due end of Week 17.
 - A9 Job Search Documents: 10%
 - A10 Final Portfolio (Google Site): 30%
 - **Total: 100%**
-- All use the universal /15 rubric (Completion, Thinking/Communication, Workflow/Authenticity).
+- All use the universal /30 rubric (Completion, Thinking/Communication, Workflow/Authenticity).
 
 ## Submission Expectations
 - All assignments (except A10) are completed in Pika using the assignments feature.

@@ -15,7 +15,7 @@ Add a short caption under each screenshot explaining what it shows.
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: all three tasks with screenshots/captions and AI summary.
 - Thinking/communication: captions are clear; steps followed exactly.
 - Workflow/authenticity: your own screenshots.
@@ -48,7 +48,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: lead-up questions, proposal, checkpoints, daily practice description, and resources are present.
 - Thinking/communication: proposal is specific, realistic, and personal.
 - Workflow/authenticity: your own words.
@@ -86,7 +86,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: skill snapshot (3 skills including Digital skills / AI) and reflection are present.
 - Thinking/communication: explanations are clear and specific; connections to jobs are relevant.
 - Workflow/authenticity: organized with headings, your own words.
@@ -131,7 +131,7 @@ Part B: Teamwork Reflection
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: all 9 parts (5 self-management + 4 teamwork) are present.
 - Thinking/communication: specific examples; honest reflection on both self-management and teamwork.
 - Workflow/authenticity: organized with headings, your own words.
@@ -156,7 +156,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: screenshot of results and reflection are present.
 - Thinking/communication: reflection is thoughtful and connects personality to work/learning.
 - Workflow/authenticity: organized, your own words.
@@ -194,7 +194,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: research, pathways, barriers, health & safety, and summary present with sources named.
 - Thinking/communication: clear notes; shows comparison and reasoning.
 - Workflow/authenticity: organized, citations/links to sources, your own words.
@@ -228,7 +228,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: options, criteria, matrix, barriers, and reflection are present.
 - Thinking/communication: scores explained; reasoning is clear and specific.
 - Workflow/authenticity: organized layout, visible calculations, your own words.
@@ -257,7 +257,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: career plan, job posting, and workplace awareness are present.
 - Thinking/communication: plan is realistic and specific; posting matches your interests.
 - Workflow/authenticity: organized with clear headings, your own words.
@@ -293,7 +293,7 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: resume, cover letter, interview prep, and reflection are present.
 - Thinking/communication: documents targeted to the posting; AI iteration shows thoughtful refinement.
 - Workflow/authenticity: multiple drafts visible with notes on changes, your own words.
@@ -335,7 +335,7 @@ How to submit:
 - Set sharing so anyone with the link can view.
 - In Pika, submit your Site URL + a 4–5 sentence "tour" describing where to find everything.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: all required pages, embedded/linked work, and final reflection.
 - Thinking/communication: navigation is clear; reflection shows growth.
 - Workflow/authenticity: evidence of process, working links, your own words.

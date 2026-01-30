@@ -14,7 +14,7 @@ Add a short caption under each screenshot explaining what it shows.
 How to submit:
 - Complete this assignment in Pika.
 
-Success criteria (/15):
+Success criteria (/30):
 - Completion: all three tasks with screenshots/captions and AI summary.
 - Thinking/communication: captions are clear; steps followed exactly.
 - Workflow/authenticity: your own screenshots.
