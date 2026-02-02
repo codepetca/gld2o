@@ -14,6 +14,8 @@ Add a short caption under each screenshot explaining what it shows.
 How to submit:
 - Complete this assignment in Pika.
 
+Approximate length: 500 characters (100 words)
+
 Success criteria (/30):
 - Completion: all three tasks with screenshots/captions and AI summary.
 - Thinking/communication: captions are clear; steps followed exactly.

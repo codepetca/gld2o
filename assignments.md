@@ -15,6 +15,8 @@ Add a short caption under each screenshot explaining what it shows.
 How to submit:
 - Complete this assignment in Pika.
 
+Approximate length: 500 characters (100 words)
+
 Success criteria (/30):
 - Completion: all three tasks with screenshots/captions and AI summary.
 - Thinking/communication: captions are clear; steps followed exactly.
@@ -47,6 +49,8 @@ What to do:
 
 How to submit:
 - Complete this assignment in Pika.
+
+Approximate length: 1500 characters (300 words)
 
 Success criteria (/30):
 - Completion: lead-up questions, proposal, checkpoints, daily practice description, and resources are present.
@@ -85,6 +89,8 @@ What to do:
 
 How to submit:
 - Complete this assignment in Pika.
+
+Approximate length: 1000 characters (200 words)
 
 Success criteria (/30):
 - Completion: skill snapshot (3 skills including Digital skills / AI) and reflection are present.
@@ -131,6 +137,8 @@ Part B: Teamwork Reflection
 How to submit:
 - Complete this assignment in Pika.
 
+Approximate length: 3000 characters (600 words)
+
 Success criteria (/30):
 - Completion: all 9 parts (5 self-management + 4 teamwork) are present.
 - Thinking/communication: specific examples; honest reflection on both self-management and teamwork.
@@ -155,6 +163,8 @@ What to do:
 
 How to submit:
 - Complete this assignment in Pika.
+
+Approximate length: 800 characters (150 words)
 
 Success criteria (/30):
 - Completion: screenshot of results and reflection are present.
@@ -194,6 +204,8 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
+Approximate length: 3500 characters (700 words)
+
 Success criteria (/30):
 - Completion: research, pathways, barriers, health & safety, and summary present with sources named.
 - Thinking/communication: clear notes; shows comparison and reasoning.
@@ -228,6 +240,8 @@ What to do:
 How to submit:
 - Complete this assignment in Pika.
 
+Approximate length: 1500 characters (300 words)
+
 Success criteria (/30):
 - Completion: options, criteria, matrix, barriers, and reflection are present.
 - Thinking/communication: scores explained; reasoning is clear and specific.
@@ -256,6 +270,8 @@ What to do:
 
 How to submit:
 - Complete this assignment in Pika.
+
+Approximate length: 1000 characters (200 words)
 
 Success criteria (/30):
 - Completion: career plan, job posting, and workplace awareness are present.
@@ -292,6 +308,8 @@ What to do:
 
 How to submit:
 - Complete this assignment in Pika.
+
+Approximate length: 4000 characters (800 words)
 
 Success criteria (/30):
 - Completion: resume, cover letter, interview prep, and reflection are present.
@@ -334,6 +352,8 @@ What makes a strong portfolio:
 How to submit:
 - Set sharing so anyone with the link can view.
 - In Pika, submit your Site URL + a 4–5 sentence "tour" describing where to find everything.
+
+Approximate length: 500 characters (100 words)
 
 Success criteria (/30):
 - Completion: all required pages, embedded/linked work, and final reflection.
