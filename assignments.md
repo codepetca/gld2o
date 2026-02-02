@@ -319,7 +319,7 @@ Success criteria (/30):
 ---
 
 ## A10 Final Portfolio (Google Site) [DRAFT]
-Due: 2026-05-29
+Due: 2026-06-12
 
 Purpose: Showcase your learning in a single, easy-to-navigate Google Site.
 
@@ -343,6 +343,8 @@ What to do:
 4) For each page: embed or link your work from Pika. Note what you revised.
 
 5) Evidence of process: include at least 2 in-progress artifacts (drafts, notes, earlier versions) somewhere on the site.
+
+Progress check: There will be a progress check halfway through this assignment. Your site should show significant progress — pages created, content added, and work linked. You don't need to be finished, but you should be well underway.
 
 What makes a strong portfolio:
 - Clear menu, consistent headings, working links

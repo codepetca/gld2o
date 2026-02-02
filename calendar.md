@@ -108,6 +108,7 @@ A10: Personal Interest Project and Essential Skills pages done
 ## 2026-05-21
 A10: Self-Management and Self-Assessment pages done
 ## 2026-05-22
+A10: Progress check — site should show significant progress
 ## 2026-05-25
 A10: Career Exploration and Decision-Making pages done
 ## 2026-05-26
@@ -129,10 +130,10 @@ A10: All links checked, navigation polished
 A10: Final review done
 ## 2026-06-11
 ## 2026-06-12
+Final portfolios due
 ## 2026-06-15
 ## 2026-06-16
 ## 2026-06-17
-Final portfolios due
 ## 2026-06-18
 ## 2026-06-19
 ## 2026-06-22
