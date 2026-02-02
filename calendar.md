@@ -1,5 +1,5 @@
 ## 2026-02-02
-A1 Digital Scavenger Hunt assigned
+A1 Getting Started assigned
 ## 2026-02-03
 A1: All three tasks completed with captions
 ## 2026-02-04

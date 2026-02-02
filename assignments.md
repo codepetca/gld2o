@@ -1,24 +1,26 @@
-## A1 Digital Scavenger Hunt [DRAFT]
+## A1 Getting Started [DRAFT]
 Due: 2026-02-06
 
 Purpose: Practice the course workflow and get comfortable with screenshots and AI tools.
 
 What to do:
+Add a short caption under each screenshot explaining what it shows. Crop your screenshots so they only show what's relevant.
+
 1) Dino Run: Play until at least 100 points. Screenshot your score. (To play: turn off Wi-Fi, visit google.com, press spacebar.)
 
 2) YouTube Explorer: Search "world's shortest video," find the original famous one, and screenshot the page.
 
 3) Ask AI: Ask Google (Gemini) or another AI tool: "What is GLD2O?" Summarize what the AI says (2-3 sentences), then explain how this asynchronous online course is different.
 
-Add a short caption under each screenshot explaining what it shows.
+4) About you: Introduce yourself in a few sentences. Who are you, what are you interested in, and what are you hoping to get out of this course?
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 500 characters (100 words)
+Approximate length: 750 characters (150 words)
 
 Success criteria (/30):
-- Completion: all three tasks with screenshots/captions and AI summary.
+- Completion: all four tasks completed in Pika.
 - Thinking/communication: captions are clear; steps followed exactly.
 - Workflow/authenticity: your own screenshots.
 
