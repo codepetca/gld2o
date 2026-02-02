@@ -57,7 +57,7 @@ Approximate length: 1500 characters (300 words)
 Success criteria (/30):
 - Completion: lead-up questions, proposal, checkpoints, daily practice description, and resources are present.
 - Thinking/communication: proposal is specific, realistic, and personal.
-- Workflow/authenticity: your own words.
+- Workflow/authenticity: daily Pika check-ins, your own words.
 
 ---
 
