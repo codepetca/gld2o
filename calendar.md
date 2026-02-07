@@ -11,23 +11,23 @@ A2 Personal Interest Proposal assigned
 A2: Interests listed and lead-up questions answered
 ## 2026-02-11
 ## 2026-02-12
-A2: Proposal, daily practice, and resources done
+A2: Proposal, session description, and resources done
 ## 2026-02-13
 ## 2026-02-17
 A3 Essential Skills assigned
 ## 2026-02-18
 A3: 3 skills chosen and skill snapshot started
 ## 2026-02-19
-A3: Reflection written
 ## 2026-02-20
+A3: Reflection written
 ## 2026-02-23
-A4 Self-Management & Teamwork assigned
 ## 2026-02-24
-A4: Course comparison started (Part A)
+A4 Self-Management & Teamwork assigned
 ## 2026-02-25
+A4: Course comparison started (Part A)
 ## 2026-02-26
-A4: Part A done — strategies, struggles, and one change
 ## 2026-02-27
+A4: Part A done — strategies, struggles, and one change
 ## 2026-03-02
 A4: Teamwork experience described (Part B)
 ## 2026-03-03
@@ -95,36 +95,36 @@ A9: Cover letter refined, interview prep done
 A9: Reflection written, everything finalized
 ## 2026-05-08
 ## 2026-05-11
-A10 Final Portfolio assigned
+Personal Interest Focus Week — work on your A2 project and log your progress
 ## 2026-05-12
-A10: Google Site created, page structure set up
 ## 2026-05-13
 ## 2026-05-14
-A10: Home and About Me pages done
 ## 2026-05-15
 ## 2026-05-19
-A10: Personal Interest Project and Essential Skills pages done
+A10 Final Portfolio assigned
 ## 2026-05-20
+A10: Google Site created, page structure set up
 ## 2026-05-21
-A10: Self-Management and Self-Assessment pages done
 ## 2026-05-22
-A10: Progress check — site should show significant progress
+A10: Home and About Me pages done
 ## 2026-05-25
-A10: Career Exploration and Decision-Making pages done
+A10: Personal Interest Project and Essential Skills pages done
 ## 2026-05-26
 ## 2026-05-27
-A10: Career Plan and Job Search Documents pages done
+A10: Self-Management and Self-Assessment pages done
 ## 2026-05-28
 ## 2026-05-29
+A10: Progress check — site should show significant progress
 ## 2026-06-01
-A10: All pages complete, final reflection started
+A10: Career Exploration and Decision-Making pages done
 ## 2026-06-02
 ## 2026-06-03
-A10: In-progress artifacts added (drafts, earlier versions)
+A10: Career Plan and Job Search Documents pages done
 ## 2026-06-04
 ## 2026-06-05
+A10: All pages complete, final reflection started
 ## 2026-06-08
-A10: All links checked, navigation polished
+A10: In-progress artifacts added, all links checked
 ## 2026-06-09
 ## 2026-06-10
 A10: Final review done

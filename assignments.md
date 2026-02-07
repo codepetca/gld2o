@@ -71,7 +71,7 @@ Success criteria (/30):
 ---
 
 ## A3 Essential Skills [DRAFT]
-Due: 2026-02-20
+Due: 2026-02-23
 
 Purpose: Practice workplace essential skills and show how you apply them.
 
@@ -185,7 +185,7 @@ Success criteria (/30):
 ---
 
 ## A6 Career Exploration [DRAFT]
-Due: 2026-03-27
+Due: 2026-04-02
 
 Purpose: Research occupations and decide which ones fit you best.
 
@@ -225,7 +225,7 @@ Success criteria (/30):
 ---
 
 ## A7 Decision-Making & Barriers [DRAFT]
-Due: 2026-04-10
+Due: 2026-04-17
 
 Purpose: Apply a decision-making process and plan for barriers.
 
@@ -261,7 +261,7 @@ Success criteria (/30):
 ---
 
 ## A8 Career Plan & Workplace Awareness [DRAFT]
-Due: 2026-04-17
+Due: 2026-04-24
 
 Purpose: Create a short-term career plan and learn about workplace rights and issues.
 
@@ -292,7 +292,7 @@ Success criteria (/30):
 ---
 
 ## A9 Job Search Documents [DRAFT]
-Due: 2026-05-01
+Due: 2026-05-08
 
 Purpose: Create a resume and cover letter using AI, and prepare for interviews.
 
