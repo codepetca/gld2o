@@ -1,4 +1,4 @@
-## A1 Getting Started [DRAFT]
+## A1 Getting Started
 Due: 2026-02-06
 
 Purpose: Practice the course workflow and get comfortable with screenshots and AI tools.
@@ -29,7 +29,7 @@ Success criteria (/30):
 ## A2 Personal Interest Proposal [DRAFT]
 Due: 2026-02-13
 
-Purpose: Propose a personal project you'll track through the course (e.g., learn guitar, build a budget, try a recipe series, crochet something).
+Purpose: Propose a personal project you'll track through the course (e.g., learn an instrument, start baking, learn to code).
 
 What to do:
 1) What you like doing: List things you enjoy outside school (hobbies, activities, topics you read/watch).
@@ -40,14 +40,23 @@ What to do:
    - What's a skill you wish you had started earlier?
    - How much time per week could you give this?
 
-3) Your proposal (5–7 sentences): Describe the project you want to pursue. Include:
+3) Your proposal and plan: Describe the project you want to pursue and set personal deadlines for yourself. Include:
    - Why it matters to you
    - What "done" looks like by course end
-   - 3 small checkpoints you can log along the way
+   - A rough timeline with goals
 
-4) Daily practice: Describe what a typical day or session looks like for this project. How much time? What would you actually do?
+   It's okay if you don't know all the steps yet. If your project is new to you, your first milestone might just be researching and exploring what's involved. Your plan will probably change as you learn more — that's expected. The point is to start with a direction and adjust as you go.
 
-5) Resources: List at least 2 resources (people, sites, videos, tools) you could use.
+   Example:
+   I want to learn to bake. I've never made anything from scratch and I want to change that. I think it would be cool to eventually be able to make something for my friends or family.
+   - February: follow a simple recipe and bake something new (banana bread or muffins)
+   - March: try something harder (cinnamon rolls or a layered cake)
+   - April: remake something I already tried but make it better
+   - May: host friends and serve something I made on my own
+
+4) A typical session: Describe what a typical session looks like for this project. What would you actually do? How often would you do it?
+
+5) Resources: List at least 2 resources (people, sites, videos, tools, AI) you could use.
 
 How to submit:
 - Complete this assignment in Pika.
@@ -55,9 +64,9 @@ How to submit:
 Approximate length: 1500 characters (300 words)
 
 Success criteria (/30):
-- Completion: lead-up questions, proposal, checkpoints, daily practice description, and resources are present.
-- Thinking/communication: proposal is specific, realistic, and personal.
-- Workflow/authenticity: daily Pika check-ins, your own words.
+- Completion: lead-up questions, proposal with clear timeline, session description, and resources are present.
+- Thinking/communication: proposal is specific, realistic, and personal; goals are reasonably specific.
+- Workflow/authenticity: your own words.
 
 ---
 
