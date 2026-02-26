@@ -163,19 +163,25 @@ Due: 2026-03-13
 Purpose: Learn more about yourself to inform your career exploration.
 
 What to do:
-1) Take the test: Complete the free 16Personalities test at https://www.16personalities.com/free-personality-test
+1) Take the test: Complete the free 16Personalities test at https://www.16personalities.com/
 
-2) Screenshot your results: Capture your personality type and the brief description. Paste it into your assignment.
+2) Screenshot your results: Capture your personality type and its corresponding image. Paste it into your assignment.
 
-3) Reflection (6–8 sentences):
-   - Does this personality type feel accurate to you? Why or why not?
-   - What surprised you about your results?
+3) Read the summary of your personality type on the 16Personalities site.
+
+4) Reflection (6–8 sentences):
+   - Identify 2 areas from the summary that feel accurate to you and explain why.
    - How might this personality type influence the kind of work environment or career you'd enjoy?
+
+5) Explore your opposite type:
+   - Flip every letter of your type to find your opposite (e.g. INTP → ESFJ).
+   - Look up that type on the 16Personalities site under the Personality Types tab.
+   - Reflection: Your opposite type likely sees and approaches the world very differently from you. Identify one key difference you noticed between the two types. How might that difference show up in a group project or workplace situation, and what's one thing you could do to work more effectively with someone like that?
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 800 characters (150 words)
+Approximate length: 1500 characters (280 words)
 
 Success criteria (/30):
 - Completion: screenshot of results and reflection are present.
