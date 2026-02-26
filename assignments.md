@@ -163,23 +163,33 @@ Due: 2026-03-13
 Purpose: Learn more about yourself to inform your career exploration.
 
 What to do:
-1) Take the test: Complete the free 16Personalities test at https://www.16personalities.com/free-personality-test
+1) Take the test: Complete the free 16Personalities test at https://www.16personalities.com/
 
-2) Screenshot your results: Capture your personality type and the brief description. Paste it into your assignment.
+2) Screenshot your personality type and corresponding image, crop it, and paste it into your assignment.
 
-3) Reflection (6–8 sentences):
-   - Does this personality type feel accurate to you? Why or why not?
-   - What surprised you about your results?
-   - How might this personality type influence the kind of work environment or career you'd enjoy?
+3) Read your personality type summary and identify 1 area that resonates with you. Write a few sentences explaining what it is and why it feels accurate.
+
+4) Continue to the Strengths & Weaknesses page of your personality type. Identify 1 strength and 1 weakness that apply to you. Write a few sentences on each, using a specific example or situation from your own life.
+
+5) Career Paths: Navigate to the Career Paths page for your personality type. Read through it and reflect: What kinds of work environments or fields does it suggest for your type? Do these feel like a good match for you — why or why not?
+
+6) Workplace Habits: Navigate to the Workplace Habits page for your personality type. The page describes how your type tends to behave as a subordinate, colleague, and manager. Pick the one that resonates most with you. What does it say, and does it match how you've experienced yourself in school or at work?
+
+7) Explore your opposite type:
+   - Flip every letter of your type to find your opposite (e.g. INTP → ESFJ).
+   - Look up that type on the 16Personalities site under the Personality Types tab.
+   - Reflection: Your opposite type likely sees and approaches the world very differently from you. Identify one key difference you noticed between the two types. How might that difference show up in a group project or workplace situation, and what's one thing you could do to work more effectively with someone like that?
+
+Optional: The 16Personalities site also has pages on Romantic Relationships, Friendships, and Parenthood for your type. These aren't required, but feel free to explore them if you're curious.
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 800 characters (150 words)
+Approximate length: 3000 characters (600 words)
 
 Success criteria (/30):
-- Completion: screenshot of results and reflection are present.
-- Thinking/communication: reflection is thoughtful and connects personality to work/learning.
+- Completion: screenshot of results and all six reflections are present (resonance, strength, weakness, opposite type, career paths, workplace habits).
+- Thinking/communication: reflections are specific and grounded in your own experience; career and workplace connections are thoughtful.
 - Workflow/authenticity: organized, your own words.
 
 ---

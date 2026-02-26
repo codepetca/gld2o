@@ -19,10 +19,10 @@ This package contains:
 
 ### Unit 2: Skills for Success
 - Week 3: A3 Essential Skills (5%)
-- Weeks 4–5: A4 Self-Management & Teamwork (10%)
+- Week 4: A4 Self-Management & Teamwork (5%)
 
 ### Unit 3: Knowing Yourself & Exploring Careers
-- Week 6: A5 Self-Assessment (5%)
+- Weeks 5–6: A5 Self-Assessment (10%)
 - Weeks 7–8: A6 Career Exploration (10%)
 
 ### Unit 4: Planning & Preparing
@@ -39,8 +39,8 @@ Final portfolio due end of Week 17.
 - A1 Digital Scavenger Hunt: 5%
 - A2 Personal Interest Proposal: 10%
 - A3 Essential Skills: 5%
-- A4 Self-Management & Teamwork: 10%
-- A5 Self-Assessment: 5%
+- A4 Self-Management & Teamwork: 5%
+- A5 Self-Assessment: 10%
 - A6 Career Exploration: 10%
 - A7 Decision-Making & Barriers: 10%
 - A8 Career Plan & Workplace Awareness: 5%
