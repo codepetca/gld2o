@@ -171,19 +171,25 @@ What to do:
 
 4) Continue to the Strengths & Weaknesses page of your personality type. Identify 1 strength and 1 weakness that apply to you. Write a few sentences on each, using a specific example or situation from your own life.
 
-5) Explore your opposite type:
+5) Career Paths: Navigate to the Career Paths page for your personality type. Read through it and reflect: What kinds of work environments or fields does it suggest for your type? Do these feel like a good match for you — why or why not?
+
+6) Workplace Habits: Navigate to the Workplace Habits page for your personality type. The page describes how your type tends to behave as a subordinate, colleague, and manager. Pick the one that resonates most with you. What does it say, and does it match how you've experienced yourself in school or at work?
+
+7) Explore your opposite type:
    - Flip every letter of your type to find your opposite (e.g. INTP → ESFJ).
    - Look up that type on the 16Personalities site under the Personality Types tab.
    - Reflection: Your opposite type likely sees and approaches the world very differently from you. Identify one key difference you noticed between the two types. How might that difference show up in a group project or workplace situation, and what's one thing you could do to work more effectively with someone like that?
 
+Optional: The 16Personalities site also has pages on Romantic Relationships, Friendships, and Parenthood for your type. These aren't required, but feel free to explore them if you're curious.
+
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 2000 characters (370 words)
+Approximate length: 3000 characters (600 words)
 
 Success criteria (/30):
-- Completion: screenshot of results and all four reflections are present (resonance, strength, weakness, opposite type).
-- Thinking/communication: reflections are specific and grounded in your own experience.
+- Completion: screenshot of results and all six reflections are present (resonance, strength, weakness, opposite type, career paths, workplace habits).
+- Thinking/communication: reflections are specific and grounded in your own experience; career and workplace connections are thoughtful.
 - Workflow/authenticity: organized, your own words.
 
 ---
