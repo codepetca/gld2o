@@ -202,7 +202,7 @@ Purpose: Research occupations and decide which ones fit you best.
 What to do:
 1) Choose 2 occupations you genuinely want to learn about. Consider your A5 personality results, but pick roles that interest you.
 
-2) Research each role (use at least 2 sources per role). Record:
+2) Research each role (use at least 2 sources per role, and keep the links). Record:
    - Key duties
    - Essential skills required
    - Typical education/training
@@ -222,51 +222,58 @@ What to do:
 
 6) Summary (1 paragraph): Pick your top choice and explain why.
 
+7) Suggested resources:
+   - Job Bank Occupation Search: https://www.jobbank.gc.ca/occupation_search-eng.do
+   - Ontario Colleges Programs: https://www.ontariocolleges.ca/en/programs
+   - Ontario Worker Health and Safety Awareness in 4 Steps: https://www.labour.gov.on.ca/english/hs/elearn/worker/foursteps.php
+
+8) References (required):
+   - Add a "References" section at the end.
+   - For every source you used, include the source name + the exact page URL where you found your information.
+   - Do not paste only the main homepage of a site. Link the specific occupation/program/policy page you actually used.
+   - Your links can come from the suggested resources above or any other credible site you used.
+
 How to submit:
 - Complete this assignment in Pika.
 
 Approximate length: 3500 characters (700 words)
 
 Success criteria (/30):
-- Completion: research, pathways, barriers, health & safety, and summary present with sources named.
+- Completion: research, pathways, barriers, health & safety, summary, and a References section with working links to the exact pages used are present.
 - Thinking/communication: clear notes; shows comparison and reasoning.
 - Workflow/authenticity: organized, citations/links to sources, your own words.
 
 ---
 
-## A7 Decision-Making & Barriers [DRAFT]
+## A7 Personal Interest Progress Update [DRAFT]
 Due: 2026-04-17
 
-Purpose: Apply a decision-making process and plan for barriers.
+Purpose: Use these two weeks to spend real time on your personal interest project from A2, accomplish more of it, and submit a short, honest update on how it's going.
 
 What to do:
-1) Choose one decision related to school or work (e.g., course choice, job option, volunteer placement, skill to develop).
+1) Over these two weeks, work on your personal interest project from A2. Use the time to accomplish more of it, even if the progress is gradual.
 
-2) Options and criteria: List 3 options and 3–4 criteria that matter to you (cost, time, growth, interest, location, etc.).
+2) Write a concise update that includes:
+   - What you actually did
+   - What progress you made or what you learned
+   - One challenge, obstacle, or reason progress was slower than expected
+   - Your plan for the rest of the semester so the project is complete and ready to include in A10
 
-3) Decision matrix: Create a simple table. Score each option against each criterion (1–5 scale) and total the scores.
+3) Be honest. If you didn't make much progress, say that clearly and explain why. The goal is an accurate update, not pretending everything went perfectly.
 
-   Example:
-   | Criteria       | Option A | Option B | Option C |
-   |----------------|----------|----------|----------|
-   | Cost           | 4        | 2        | 5        |
-   | Interest       | 5        | 4        | 3        |
-   | Growth         | 3        | 5        | 4        |
-   | **Total**      | **12**   | **11**   | **12**   |
+4) Your plan does not need to be long, but it should be realistic. Briefly explain what still needs to happen, when you expect to do it, and what you want to have ready for A10.
 
-4) Barriers and strategies: Name 2–3 barriers for your top option (e.g., schedule conflicts, finances, transportation) and how you'd handle them.
-
-5) Reflection (1 paragraph): Which option did you choose and why? Does the matrix match your gut feeling? What would make you change your mind?
+5) Optional but helpful: include one photo, screenshot, note, draft, or other small piece of evidence you can later reuse in A10.
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 1500 characters (300 words)
+Approximate length: 750 characters (150 words)
 
 Success criteria (/30):
-- Completion: options, criteria, matrix, barriers, and reflection are present.
-- Thinking/communication: scores explained; reasoning is clear and specific.
-- Workflow/authenticity: organized layout, visible calculations, your own words.
+- Completion: update includes progress, challenge, and a realistic plan to complete the project and include it in A10.
+- Thinking/communication: concise, specific, and honest.
+- Workflow/authenticity: grounded in your real process, your own words.
 
 ---
 
@@ -282,12 +289,16 @@ What to do:
    - Certifications or experiences to pursue
    - One backup plan if things change
 
-2) Job posting: Find one real posting (part-time, summer, volunteer, or entry-level) that interests you. Paste the key requirements and link.
+2) Job posting: Find one real posting (part-time, summer, volunteer, or entry-level) connected to one of the careers you explored in A6. Paste the key requirements and link. If you have changed your mind since A6, you may choose a different role, but briefly explain why.
 
 3) Workplace awareness (3 short answers):
    - What is one workplace issue (e.g., harassment, ethics, confidentiality, equity, technology use) that could arise in this job?
    - What is one worker's right relevant to this role (e.g., right to refuse unsafe work, right to accommodation, minimum wage)?
    - Is this job typically unionized? If yes, name the union; if not, say "not typically unionized."
+
+4) Suggested resources:
+   - Job Bank Youth Jobs: https://www.jobbank.gc.ca/youth
+   - Ontario Young Workers' Rights: https://www.ontario.ca/document/your-guide-employment-standards-act-0/young-workers-rights
 
 How to submit:
 - Complete this assignment in Pika.
@@ -304,7 +315,7 @@ Success criteria (/30):
 ## A9 Job Search Documents [DRAFT]
 Due: 2026-05-08
 
-Purpose: Create a resume and cover letter using AI, and prepare for interviews.
+Purpose: Use the job posting from A8 to create a resume and cover letter using AI, and prepare for interviews.
 
 What to do:
 1) Resume (use AI to iterate):
@@ -316,16 +327,21 @@ What to do:
 
 2) Cover letter (use AI to iterate):
    - Same process: use AI to draft, paste each version, note your changes.
-   - Final version should be targeted to the posting and sound like you.
+   - Final version should be targeted to the same posting from A8 and sound like you.
 
 3) Interview prep:
-   - List 2 common interview questions for your target role.
+   - List 2 common interview questions for the same target role/posting from A8.
    - Write brief answers to each.
    - Note one thing about non-verbal communication (dress, eye contact, body language) that matters for this role.
 
 4) Reflection (4–6 sentences):
    - What do you still need to learn or gain to be competitive for this role?
    - What did you learn about using AI for professional documents? (What worked, what didn't, what surprised you?)
+
+5) Suggested resources:
+   - Job Bank: How to write a good resume: https://www.bc.jobbank.gc.ca/findajob/resources/write-good-resume
+   - Job Bank: How do I apply for a job?: https://www.mb.jobbank.gc.ca/findajob/resources/apply-for-jobs
+   - Job Bank: Preparing for an interview: https://www.mb.jobbank.gc.ca/findajob/resources/prepare-for-interview
 
 How to submit:
 - Complete this assignment in Pika.
@@ -347,15 +363,18 @@ Purpose: Showcase your learning in a single, easy-to-navigate Google Site.
 What to do:
 1) Create a new Google Site with clear page names and simple navigation.
 
+   During the first part of this assignment, you may use the time flexibly to get organized: experiment with Google Sites, set up your page structure, gather work from earlier assignments, and get your personal interest project materials ready to include.
+
+   By the end of the first week, your site should be published and shared correctly so I can open it. This is a setup check so problems with publishing or sharing are caught early.
+
 2) Required pages:
    - Home: short intro and "site tour" telling visitors where to find everything
    - About Me: profile highlights (strengths, interests, values) and one story that represents you
-   - Personal Interest Project: your project from A2, progress updates, and what you learned
+   - Personal Interest Project: your project from A2, your A7 progress update, and what you learned by the end
    - Essential Skills: your skill snapshot and reflection (A3)
    - Self-Management & Teamwork: key takeaways from A4
    - Self-Assessment: your 16Personalities results and reflection (A5)
    - Career Exploration: summaries of occupations you researched (A6)
-   - Decision-Making & Barriers: your decision matrix and strategies (A7)
    - Career Plan: your plan and workplace awareness answers (A8)
    - Job Search Documents: your resume and cover letter (A9)
 
@@ -365,7 +384,9 @@ What to do:
 
 5) Evidence of process: include at least 2 in-progress artifacts (drafts, notes, earlier versions) somewhere on the site.
 
-Progress check: There will be a progress check halfway through this assignment. Your site should show significant progress — pages created, content added, and work linked. You don't need to be finished, but you should be well underway.
+Progress checks:
+- Early setup check: your site should be published and viewable.
+- Midway check: your site should show significant progress — pages created, content added, and work linked. You don't need to be finished, but you should be well underway.
 
 What makes a strong portfolio:
 - Clear menu, consistent headings, working links

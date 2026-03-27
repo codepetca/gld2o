@@ -58,19 +58,22 @@ A6: Pathways and fit + barriers sections done
 A6: Health & safety and summary paragraph done
 ## 2026-04-02
 ## 2026-04-07
-A7 Decision-Making & Barriers assigned
+A7 Personal Interest Progress Update assigned
 ## 2026-04-08
-A7: Decision chosen, options and criteria listed
+A7: Time spent on personal interest project
 ## 2026-04-09
-A7: Decision matrix built
+A7: Progress and learning noted
 ## 2026-04-10
+A7: Project work continued
 ## 2026-04-13
+A7: More project time / evidence gathered
 ## 2026-04-14
-A7: Barriers and strategies identified
+A7: Challenges and semester plan identified
 ## 2026-04-15
 ## 2026-04-16
-A7: Reflection written
+A7: Concise update finalized
 ## 2026-04-17
+A7 due
 ## 2026-04-20
 A8 Career Plan & Workplace Awareness assigned
 ## 2026-04-21
@@ -95,15 +98,16 @@ A9: Cover letter refined, interview prep done
 A9: Reflection written, everything finalized
 ## 2026-05-08
 ## 2026-05-11
-Personal Interest Focus Week — work on your A2 project and log your progress
+A10 Final Portfolio assigned
 ## 2026-05-12
+A10: Portfolio prep / personal project prep / experiment with Google Sites
 ## 2026-05-13
 ## 2026-05-14
 ## 2026-05-15
+A10 setup check due: submit Site URL in Pika; site published and sharing on
 ## 2026-05-19
-A10 Final Portfolio assigned
 ## 2026-05-20
-A10: Google Site created, page structure set up
+A10: Google Site work underway
 ## 2026-05-21
 ## 2026-05-22
 A10: Home and About Me pages done
@@ -116,7 +120,7 @@ A10: Self-Management and Self-Assessment pages done
 ## 2026-05-29
 A10: Progress check — site should show significant progress
 ## 2026-06-01
-A10: Career Exploration and Decision-Making pages done
+A10: Career Exploration and Personal Interest Project pages done
 ## 2026-06-02
 ## 2026-06-03
 A10: Career Plan and Job Search Documents pages done
