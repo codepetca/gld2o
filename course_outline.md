@@ -27,11 +27,11 @@ This package contains:
 
 ### Unit 4: Planning & Preparing
 - Weeks 9–10: A7 Personal Interest Progress Update (5%)
-- Week 11: A8 Career Plan & Workplace Awareness (5%)
-- Weeks 12–13: A9 Job Search Documents (15%)
+- Weeks 11–12: A8 Career Plan & Workplace Awareness (5%)
+- Weeks 13–14: A9 Job Search Documents (15%)
 
 ### Unit 5: Showcase
-- Weeks 14–18: A10 Final Portfolio — Google Site (30%)
+- Weeks 15–18: A10 Final Portfolio — Google Site (30%)
 
 Final portfolio due end of Week 18.
 

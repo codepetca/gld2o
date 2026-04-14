@@ -278,7 +278,7 @@ Success criteria (/30):
 ---
 
 ## A8 Career Plan & Workplace Awareness [DRAFT]
-Due: 2026-04-24
+Due: 2026-05-01
 
 Purpose: Create a short-term career plan and learn about workplace rights and issues.
 
@@ -289,31 +289,41 @@ What to do:
    - Certifications or experiences to pursue
    - One backup plan if things change
 
-2) Job posting: Find one real posting (part-time, summer, volunteer, or entry-level) connected to one of the careers you explored in A6. Paste the key requirements and link. If you have changed your mind since A6, you may choose a different role, but briefly explain why.
+2) Main job posting: Find one real posting (part-time, summer, volunteer, or entry-level) connected to one of the careers you explored in A6. Paste the key requirements and link. If you have changed your mind since A6, you may choose a different role, but briefly explain why.
 
-3) Workplace awareness (3 short answers):
+3) Other interesting postings: Find 2 other real postings that also sounded interesting. You do not need to analyze them. For each one, include:
+   - job title
+   - employer
+   - link
+   - one short reason it caught your attention
+
+4) Workplace awareness (3 short answers):
    - What is one workplace issue (e.g., harassment, ethics, confidentiality, equity, technology use) that could arise in this job?
    - What is one worker's right relevant to this role (e.g., right to refuse unsafe work, right to accommodation, minimum wage)?
    - Is this job typically unionized? If yes, name the union; if not, say "not typically unionized."
 
-4) Suggested resources:
+5) Suggested resources:
    - Job Bank Youth Jobs: https://www.jobbank.gc.ca/youth
+   - Ontario summer jobs for students: https://www.ontario.ca/page/summer-jobs-students
+   - Ontario Public Service summer employment opportunities: https://www.ontario.ca/summerstudents
+   - Ontario Parks student jobs: https://www.ontarioparks.ca/careers/hiringmap
    - Ontario Young Workers' Rights: https://www.ontario.ca/document/your-guide-employment-standards-act-0/young-workers-rights
+   - These are suggested starting points, not the only places you can search. You may also use other legitimate job boards, community/employer websites, or career pages if you find a real posting that fits the assignment.
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 1000 characters (200 words)
+Approximate length: 1300 characters (250 words)
 
 Success criteria (/30):
-- Completion: career plan, job posting, and workplace awareness are present.
-- Thinking/communication: plan is realistic and specific; posting matches your interests.
+- Completion: career plan, main job posting, 2 other interesting postings, and workplace awareness are present.
+- Thinking/communication: plan is realistic and specific; main posting matches your interests; additional postings show thoughtful exploration.
 - Workflow/authenticity: organized with clear headings, your own words.
 
 ---
 
 ## A9 Job Search Documents [DRAFT]
-Due: 2026-05-08
+Due: 2026-05-15
 
 Purpose: Use the job posting from A8 to create a resume and cover letter using AI, and prepare for interviews.
 
