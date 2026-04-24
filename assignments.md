@@ -328,27 +328,47 @@ Due: 2026-05-15
 Purpose: Use the job posting from A8 to create a resume and cover letter using AI, and prepare for interviews.
 
 What to do:
-1) Resume (use AI to iterate):
-   - Use an AI tool (ChatGPT, Claude, Copilot, etc.) to draft your resume.
-   - Give it the job posting from A8 and your experience/skills.
-   - Paste each draft and note what you asked the AI to change and why.
-   - Keep refining until you have a resume you're proud of.
-   - You can keep editing after submitting — this is yours to use IRL.
+1) In your Pika assignment, set up one long document with these headings, in this order:
+   - Target Job Posting
+   - Final Cover Letter
+   - Final Resume
+   - Interview Prep
+   - Reflection
+   - Revision Notes
 
 2) Cover letter (use AI to iterate):
-   - Same process: use AI to draft, paste each version, note your changes.
+   - A cover letter is a short letter to an employer explaining which job you are applying for, why you are interested, and why your skills or experiences make you a good fit.
+   - Use an AI tool (ChatGPT, Gemini, Claude, Copilot, etc.) to draft your cover letter.
+   - Give it the job posting from A8 and your experience/skills.
+   - Paste your first draft under "Final Cover Letter" in Pika and save it.
+   - Then keep revising in stages: replace the previous cover letter completely with your new version or make changes directly in Pika, and make sure each revision is saved in the history.
+   - Do not leave multiple cover letters showing in the document. The document should show your current best version; the Pika history will show how it changed over time.
+   - Your Pika history should clearly show several revisions over time, with each version getting closer to what you would actually send to a future employer.
+   - Briefly note what you changed between versions and why under "Revision Notes."
    - Final version should be targeted to the same posting from A8 and sound like you.
 
-3) Interview prep:
+3) Resume (use AI to iterate):
+   - A resume is a short, organized summary of your education, experience, skills, achievements, and other details that help an employer decide whether to interview you.
+   - Use an AI tool (ChatGPT, Gemini, Claude, Copilot, etc.) to draft your resume.
+   - Give it the job posting from A8 and your experience/skills.
+   - Paste your first draft under "Final Resume" in Pika and save it.
+   - Then keep revising in stages: replace the previous resume completely with your new version or make changes directly in Pika, and make sure each revision is saved in the history.
+   - Do not leave multiple resumes showing in the document. The document should show your current best version; the Pika history will show how it changed over time.
+   - Your Pika history should clearly show several revisions over time, with each version getting closer to what you would actually send to a future employer.
+   - Briefly note what you asked the AI to change or what you changed yourself, and why under "Revision Notes."
+   - Keep refining until you have a resume you're proud of.
+   - You can keep editing after submitting -- this is yours to use IRL.
+
+4) Interview prep:
    - List 2 common interview questions for the same target role/posting from A8.
    - Write brief answers to each.
    - Note one thing about non-verbal communication (dress, eye contact, body language) that matters for this role.
 
-4) Reflection (4–6 sentences):
+5) Reflection (4–6 sentences):
    - What do you still need to learn or gain to be competitive for this role?
    - What did you learn about using AI for professional documents? (What worked, what didn't, what surprised you?)
 
-5) Suggested resources:
+6) Suggested resources:
    - Job Bank: How to write a good resume: https://www.bc.jobbank.gc.ca/findajob/resources/write-good-resume
    - Job Bank: How do I apply for a job?: https://www.mb.jobbank.gc.ca/findajob/resources/apply-for-jobs
    - Job Bank: Preparing for an interview: https://www.mb.jobbank.gc.ca/findajob/resources/prepare-for-interview
@@ -359,9 +379,9 @@ How to submit:
 Approximate length: 4000 characters (800 words)
 
 Success criteria (/30):
-- Completion: resume, cover letter, interview prep, and reflection are present.
+- Completion: target posting, final cover letter, final resume, interview prep, reflection, and revision notes are present.
 - Thinking/communication: documents targeted to the posting; AI iteration shows thoughtful refinement.
-- Workflow/authenticity: multiple drafts visible with notes on changes, your own words.
+- Workflow/authenticity: Pika history clearly shows several revisions over time, with notes on changes and final documents in your own words.
 
 ---
 
