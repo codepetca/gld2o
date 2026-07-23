@@ -24,20 +24,20 @@ A2: Proposal with measurable goal, session description, and resources done
 ## 2026-02-13
 
 ## 2026-02-17
-A3 Dimensions of Wellness & Health Literacy assigned
+A3 Wellness Wheel & Health Literacy assigned
 
 ## 2026-02-18
-A3: 3 wellness dimensions rated
+A3: Wellness wheel self-assessment completed and screenshotted
 
 ## 2026-02-19
 
 ## 2026-02-20
-A3: Health claim evaluated and reflection written
+A3: Health claim run through the checklist and verdict written
 
 ## 2026-02-23
 
 ## 2026-02-24
-A4 Mental Health & Stress Management assigned
+A4 Mental Health & Digital Wellbeing assigned
 
 ## 2026-02-25
 A4: Stressors listed and coping described (Part A)
@@ -48,19 +48,20 @@ A4: Stressors listed and coping described (Part A)
 A4: Part A done — healthy vs. unhealthy coping and one change
 
 ## 2026-03-02
-A4: Mental health awareness started (Part B)
+A4: Screen-time report screenshotted; digital wellbeing audit started (Part B)
 
 ## 2026-03-03
 
 ## 2026-03-04
+A4: Part B done — digital boundary set
 
 ## 2026-03-05
-A4: Part B done — stigma, supports, and warning signs
+A4: Part C done — stigma, supports, and warning signs
 
 ## 2026-03-06
 
 ## 2026-03-09
-A5 Nutrition & Healthy Eating assigned
+A5 Nutrition: Food Log & Media Deconstruction assigned
 
 ## 2026-03-10
 A5: Food Guide summarized and full-day food log recorded
@@ -68,12 +69,12 @@ A5: Food Guide summarized and full-day food log recorded
 ## 2026-03-11
 
 ## 2026-03-12
-A5: Analysis, myth check, and one change written
+A5: Analysis, media deconstruction, and one change written
 
 ## 2026-03-13
 
 ## 2026-03-23
-A6 Physical Activity & Fitness assigned
+A6 Physical Activity & Home Fitness Plan assigned
 
 ## 2026-03-24
 A6: Fitness components and movement-guideline comparison done
@@ -84,9 +85,10 @@ A6: Fitness components and movement-guideline comparison done
 A6: Self-check and 1-week activity plan drafted
 
 ## 2026-03-27
+A6: Activity plan tried and logged (day 1)
 
 ## 2026-03-30
-A6: Barriers, benefits, and References section done
+A6: More plan days logged; barriers, benefits, and References section done
 
 ## 2026-03-31
 
@@ -122,25 +124,25 @@ A7: Concise update finalized
 A7 due
 
 ## 2026-04-20
-A8 Substance Use, Safety & Healthy Relationships assigned
+A8 Substance Use & Personal Safety assigned
 
 ## 2026-04-21
 A8: Substance chosen and research started
 
 ## 2026-04-22
-A8: Decision-making walkthrough drafted
+A8: Marketing deconstruction drafted
 
 ## 2026-04-23
-A8: Personal safety risk and habit noted
+A8: Decision-making walkthrough drafted
 
 ## 2026-04-24
-A8: Healthy relationship signs started
+A8: Personal safety risk and habit noted
 
 ## 2026-04-27
 A8: Research and sources refined
 
 ## 2026-04-28
-A8: Healthy/unhealthy relationship signs completed
+A8: Marketing deconstruction completed
 
 ## 2026-04-29
 A8: Final revisions and examples added
@@ -152,7 +154,7 @@ A8: Final check completed
 A8 due
 
 ## 2026-05-05
-A9 Healthy Communities — Health-Promotion Campaign assigned
+A9 Digital Health-Promotion Campaign assigned
 
 ## 2026-05-06
 A9: Issue and audience chosen; research started
@@ -200,7 +202,7 @@ A10: Home and About Me pages done
 A10: Personal Wellness Plan and Wellness & Health Literacy pages done
 
 ## 2026-05-28
-A10: Mental Health and Nutrition pages done
+A10: Mental Health & Digital Wellbeing and Nutrition pages done
 
 ## 2026-05-29
 A10: Progress check — site should show significant progress
@@ -209,7 +211,7 @@ A10: Progress check — site should show significant progress
 A10: Physical Activity and Personal Wellness Plan pages done
 
 ## 2026-06-02
-A10: Safety & Relationships and Health-Promotion Campaign pages done
+A10: Substance Use & Safety and Health-Promotion Campaign pages done
 
 ## 2026-06-03
 A10: Visual cleanup and supporting artifacts added

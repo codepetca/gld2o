@@ -70,25 +70,27 @@ Success criteria (/30):
 
 ---
 
-## A3 Dimensions of Wellness & Health Literacy [DRAFT]
+## A3 Wellness Wheel & Health Literacy [DRAFT]
 Due: 2026-02-23
 
-Purpose: Understand wellness as more than "not being sick," and practice judging whether health information is trustworthy.
+Purpose: See wellness as more than "not being sick," and build the online survival skill of judging whether health information you find is trustworthy.
 
 What to do:
-1) Dimensions of wellness: Wellness has several dimensions — physical, emotional/mental, social, spiritual, and cognitive. For 3 of these dimensions:
-   - Describe what it means in your own words
-   - Rate yourself out of 5 and explain why
-   - Name one thing that would move you up half a point
+1) Wellness wheel self-assessment:
+   Wellness has several dimensions — physical, emotional/mental, social, spiritual, and cognitive/intellectual. Complete a free online "wellness wheel" or "wellness self-assessment" (search that term, or use one your teacher links in Pika), then screenshot your result and crop it.
+   - Which dimension scored highest? Which lowest? Does that match how you actually feel?
+   - Pick the lowest dimension and name one small, specific action that would raise it.
 
-2) Health literacy — checking a source:
-   Health information is everywhere, and a lot of it is wrong or trying to sell you something. Find one health claim online (a post, ad, video, or article — e.g., a supplement, diet, or fitness "hack"). Record the link, then judge it:
-   - Who made it, and do they have real qualifications?
-   - Is it selling something? Is it current? Does it cite evidence?
-   - Would you trust it? Why or why not?
-   - Find one credible source (e.g., a government or health-organization page) that confirms or contradicts the claim, and link it.
+2) Health literacy — put a source on trial:
+   Health misinformation spreads fast online. Find one health claim on the internet (a TikTok/Reels/YouTube video, an ad, an influencer post, or an article — e.g., a supplement, "detox," diet, or fitness "hack"). Paste the link, then judge it with the CRAAP-style checklist:
+   - Currency: how recent is it?
+   - Relevance/Reliability: does it cite real evidence?
+   - Authority: who made it, and are they actually qualified?
+   - Accuracy: can you verify the claim elsewhere?
+   - Purpose: is it informing you, or selling something?
+   Then find ONE credible source (e.g., a government or recognized health-organization page) that confirms or contradicts the claim, and link it.
 
-3) Reflection (4–6 sentences): Which wellness dimension is your strongest? Which needs the most work? How does being able to spot bad health information protect you?
+3) Verdict (4–6 sentences): Would you trust the original claim? Why or why not? How will spotting bad health info protect you and the people you share things with online?
 
 How to submit:
 - Complete this assignment in Pika.
@@ -96,16 +98,16 @@ How to submit:
 Approximate length: 1200 characters (250 words)
 
 Success criteria (/30):
-- Completion: 3 wellness dimensions rated, a health claim evaluated with a credible source, and a reflection are present.
-- Thinking/communication: evaluation of the source is specific; reasoning is clear.
+- Completion: wellness-wheel screenshot with reflection, a health claim run through the checklist, a credible corroborating/contradicting source, and a verdict are present.
+- Thinking/communication: the source evaluation is specific; reasoning is clear.
 - Workflow/authenticity: organized with headings, links to sources, your own words.
 
 ---
 
-## A4 Mental Health & Stress Management [DRAFT]
+## A4 Mental Health & Digital Wellbeing [DRAFT]
 Due: 2026-03-06
 
-Purpose: Reflect on your mental health, how you handle stress, and the difference between healthy and unhealthy coping.
+Purpose: Reflect on your mental health and stress, and look honestly at how your screen and social-media habits affect how you feel — a reality of learning and living online.
 
 What to do:
 
@@ -121,30 +123,39 @@ Part A: Stress & Coping
 
 4) One change: Name one specific coping strategy you'll try for the rest of the semester, and when you'll use it.
 
-Part B: Mental Health Awareness
+Part B: Digital Wellbeing Audit
 
-5) Stigma: Mental health struggles are common, but stigma stops people from getting help. In your own words, what is one myth about mental health you think is harmful, and why?
+5) Check your numbers: Open your phone's Screen Time (iPhone) or Digital Wellbeing (Android) report — or track it for two days if you don't have it on. Screenshot your daily average and top apps, and crop it.
 
-6) Support: List 2 real supports a student your age could reach out to (a person, a school service, a helpline, or a website with a working link). Kids Help Phone (1-800-668-6868 or text CONNECT to 686868) is one option you may include.
+6) Read your data honestly:
+   - How much of your day is screen time? Does the number surprise you?
+   - Which apps lift your mood, and which drain it or make you feel worse about yourself?
+   - When does your phone use get in the way of sleep, focus, or being present with people?
 
-7) Reflection (3–5 sentences): What's one warning sign that would tell you (or a friend) it's time to ask for help?
+7) One digital boundary: Set one realistic boundary (e.g., no phone in bed, notifications off during homework, a daily app limit) and explain how it connects to your mental health — and to your A2 wellness project if it fits.
+
+Part C: Mental Health Awareness
+
+8) Stigma: Mental health struggles are common, but stigma stops people from getting help. In your own words, what is one myth about mental health you think is harmful, and why?
+
+9) Support: List 2 real supports a student your age could reach out to (a person, a school service, a helpline, or a website with a working link). Kids Help Phone (1-800-668-6868 or text CONNECT to 686868) is one option you may include, and name one warning sign that would tell you (or a friend) it's time to ask for help.
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 2500 characters (500 words)
+Approximate length: 2800 characters (550 words)
 
 Success criteria (/30):
-- Completion: all 7 parts (4 stress/coping + 3 awareness) are present.
-- Thinking/communication: honest, specific reflection; healthy/unhealthy coping clearly distinguished.
-- Workflow/authenticity: organized with headings, your own words.
+- Completion: all 9 parts (4 stress/coping + 3 digital wellbeing incl. screenshot + 2 awareness) are present.
+- Thinking/communication: honest, specific reflection; screen-time data is actually interpreted, not just pasted.
+- Workflow/authenticity: organized with headings, your own screenshot and words.
 
 ---
 
-## A5 Nutrition & Healthy Eating [DRAFT]
+## A5 Nutrition: Food Log & Media Deconstruction [DRAFT]
 Due: 2026-03-13
 
-Purpose: Learn what healthy eating actually means and analyze your own eating habits.
+Purpose: Learn what healthy eating actually means, analyze your own eating, and see through the way food and diets are marketed to you online.
 
 What to do:
 1) Canada's Food Guide: Visit https://food-guide.canada.ca/en/ and summarize its 3 main messages in your own words. Screenshot the plate model, crop it, and paste it in.
@@ -156,26 +167,29 @@ What to do:
    - Where were the gaps (e.g., not enough vegetables/fruit, too many sugary drinks, skipped meals)?
    - How did your energy or mood connect to what you ate?
 
-4) Myth check: Find one common food or diet myth (e.g., "carbs are bad," "detox teas cleanse you," "you must eat breakfast to lose weight"). State the myth, then explain what a credible source actually says, and link that source.
+4) Media deconstruction: Find one piece of food/diet media online — a food or beverage ad, a "what I eat in a day" video, or a short nutrition documentary clip. Link it, then break it down:
+   - What message is it sending about food or bodies?
+   - What tactics does it use to persuade you (celebrity, fear, "clean/detox" language, before-after, price)?
+   - Is the health claim accurate? Check it against a credible source and link that source.
 
 5) One change: Name one realistic change to your eating you could keep for the rest of the semester, and tie it to your A2 wellness project if it fits.
 
 How to submit:
 - Complete this assignment in Pika.
 
-Approximate length: 2500 characters (500 words)
+Approximate length: 2800 characters (550 words)
 
 Success criteria (/30):
-- Completion: Food Guide summary with screenshot, a full-day food log, an analysis, a myth check with a credible link, and one change are present.
-- Thinking/communication: analysis is specific and honest; myth check shows real reasoning.
+- Completion: Food Guide summary with screenshot, a full-day food log, an analysis, a media deconstruction with a credible link, and one change are present.
+- Thinking/communication: analysis is specific and honest; the deconstruction shows real critical thinking about marketing.
 - Workflow/authenticity: organized, links to sources, your own words.
 
 ---
 
-## A6 Physical Activity & Fitness [DRAFT]
+## A6 Physical Activity & Home Fitness Plan [DRAFT]
 Due: 2026-04-02
 
-Purpose: Understand the components of fitness and build a realistic personal activity plan.
+Purpose: Understand the components of fitness and build — then actually try — a realistic activity plan you can do on your own schedule at home.
 
 What to do:
 1) Components of fitness: Briefly explain, in your own words, these components and give one example activity for each:
@@ -187,13 +201,15 @@ What to do:
 
 3) Self-check: Rate your current activity level and describe what you already do (sports, walking, gym, active transport, chores). Include one screen-time reality check for a typical day.
 
-4) Your activity plan: Build a simple 1-week plan that hits the movement guidelines. For each day list the activity, rough duration, and which fitness component it targets. Keep it realistic for your schedule.
+4) Build your plan: Create a simple 1-week activity plan you can do independently (home, outdoors, or gym — no team required). For each day list the activity, rough duration, and which fitness component it targets. Keep it realistic for your schedule.
 
-5) Barriers + benefits:
+5) Try it and log it: Actually do at least 3 days of your plan this week and keep a short log (what you did, how long, how you felt). A photo, note, or table is fine — this is evidence you can reuse in A10.
+
+6) Barriers + benefits:
    - 1–2 barriers that stop you from being active, plus a strategy for each
-   - 2 benefits (physical AND mental) you'd expect if you stuck with it
+   - 2 benefits (physical AND mental) you noticed or would expect if you stuck with it
 
-6) References: Add a "References" section with the exact page URLs you used (Food Guide, movement guidelines, or other credible pages). Link the specific page, not just a homepage.
+7) References: Add a "References" section with the exact page URLs you used (movement guidelines or other credible pages). Link the specific page, not just a homepage.
 
 How to submit:
 - Complete this assignment in Pika.
@@ -201,9 +217,9 @@ How to submit:
 Approximate length: 3000 characters (600 words)
 
 Success criteria (/30):
-- Completion: fitness components, movement-guideline comparison, self-check, a realistic 1-week plan, barriers/benefits, and a References section with working links are present.
-- Thinking/communication: plan is realistic and specific; shows understanding of fitness components.
-- Workflow/authenticity: organized, citations/links to sources, your own words.
+- Completion: fitness components, movement-guideline comparison, self-check, a 1-week plan, a 3-day log, barriers/benefits, and a References section with working links are present.
+- Thinking/communication: plan is realistic and specific; the log shows you actually tried it.
+- Workflow/authenticity: organized, citations/links to sources, your own words and log.
 
 ---
 
@@ -239,10 +255,10 @@ Success criteria (/30):
 
 ---
 
-## A8 Substance Use, Safety & Healthy Relationships [DRAFT]
+## A8 Substance Use & Personal Safety [DRAFT]
 Due: 2026-05-01
 
-Purpose: Practice informed decision-making about risks to your health, and reflect on what makes relationships healthy.
+Purpose: Practice informed, independent decision-making about risks to your health, and see how substances and risky behaviours are marketed to young people online.
 
 What to do:
 1) Substance use — informed choices: Choose one substance or behaviour relevant to youth (e.g., vaping/nicotine, alcohol, cannabis, energy drinks, gambling/gaming). Using a credible source (link it), record:
@@ -250,17 +266,20 @@ What to do:
    - One reason young people start
    - One fact that surprised you
 
-2) Decision-making: Describe a realistic situation where a young person might feel pressure around this. Walk through a simple decision:
+2) Marketing deconstruction: Find one online example that promotes or glamorizes your chosen substance/behaviour — an ad, an influencer post, product packaging, or a social-media trend. Link it, then explain:
+   - Who is it aimed at, and how can you tell?
+   - What tactics make it appealing (flavours, imagery, "everyone's doing it," downplaying risk)?
+   - What does it leave out?
+
+3) Decision-making: Describe a realistic situation where a young person might feel pressure around this. Walk through a simple decision:
    - The choice they face
    - Two possible actions and the likely consequences of each
    - One refusal or exit strategy they could actually use
 
-3) Personal safety: Name one everyday safety risk (e.g., distracted walking/driving, online safety, sun/UV, concussions in sport). List one policy, guideline, or habit that reduces it.
-
-4) Healthy relationships: In your own words, list 3 signs of a healthy relationship and 3 signs of an unhealthy one (friendship, dating, family, or online). Note one way to set a boundary respectfully.
+4) Personal safety: Name one everyday safety risk (e.g., distracted walking/driving, online safety, sun/UV, concussions in sport). List one policy, guideline, or habit that reduces it.
 
 5) Suggested resources:
-   - Canada's Lower-Risk Cannabis Use Guidelines / Health Canada: https://www.canada.ca/en/health-canada.html
+   - Health Canada: https://www.canada.ca/en/health-canada.html
    - Kids Help Phone: https://kidshelpphone.ca/
    - These are starting points, not the only credible sources you may use.
 
@@ -270,16 +289,16 @@ How to submit:
 Approximate length: 2500 characters (500 words)
 
 Success criteria (/30):
-- Completion: substance research with a credible link, a decision-making walkthrough, a safety risk + habit, and healthy/unhealthy relationship signs are present.
-- Thinking/communication: reasoning is clear; decision-making shows real consequences.
+- Completion: substance research with a credible link, a marketing deconstruction with a link, a decision-making walkthrough, and a safety risk + habit are present.
+- Thinking/communication: reasoning is clear; the deconstruction and decision-making show real consequences.
 - Workflow/authenticity: organized with headings, links to sources, your own words.
 
 ---
 
-## A9 Healthy Communities — Health-Promotion Campaign [DRAFT]
+## A9 Digital Health-Promotion Campaign [DRAFT]
 Due: 2026-05-15
 
-Purpose: Learn what makes a community healthy, then design a short campaign that could influence and support others in making a positive health choice — using AI to help you draft and refine it.
+Purpose: Learn what makes a community healthy, then design a short digital campaign that could influence and support others in making a positive health choice — using AI to help you draft and refine it.
 
 What to do:
 1) In your Pika assignment, set up one long document with these headings, in this order:
@@ -297,15 +316,15 @@ What to do:
 3) Research (use at least 2 credible sources, keep the links): Record why this issue matters, who it affects, and what actually helps. Note the exact page URLs under "Research."
 
 4) Campaign message & materials (use AI to iterate):
-   - Use an AI tool (ChatGPT, Gemini, Claude, Copilot, etc.) to help you draft a clear, positive campaign: a slogan, a short message (3–5 sentences), and a description (or mock-up) of one material — a poster, social post, or 30-second script.
+   - Use an AI tool (ChatGPT, Gemini, Claude, Copilot, etc.) to help you draft a clear, positive campaign designed for online sharing: a slogan, a short message (3–5 sentences), and a description (or mock-up) of one digital material — a social-media post, an infographic, or a 30-second video script.
    - Paste your first draft under "Campaign Message & Materials" and save it.
    - Then keep revising in stages: replace the previous version completely with your improved version, and make sure each revision is saved in the history.
    - Do not leave multiple versions showing in the document. The document should show your current best version; the Pika history will show how it changed over time.
-   - Your Pika history should clearly show several revisions, each getting closer to something you'd actually put up.
+   - Your Pika history should clearly show several revisions, each getting closer to something you'd actually post.
    - Briefly note what you changed between versions and why under "Revision Notes."
    - Your message must be accurate, encouraging (not shaming), and match your audience.
 
-5) Distribution plan: Where and how would this campaign reach your audience? List 2–3 realistic channels and why they fit.
+5) Distribution plan: Where and how would this campaign reach your audience online? List 2–3 realistic channels (which platforms, groups, or accounts) and why they fit that audience.
 
 6) Reflection (4–6 sentences):
    - What makes a community "healthy," and how does your campaign support that?
@@ -322,7 +341,7 @@ How to submit:
 Approximate length: 4000 characters (800 words)
 
 Success criteria (/30):
-- Completion: issue/audience, research with working links, campaign message + one material, distribution plan, reflection, and revision notes are present.
+- Completion: issue/audience, research with working links, campaign message + one digital material, distribution plan, reflection, and revision notes are present.
 - Thinking/communication: message is accurate, positive, and targeted; AI iteration shows thoughtful refinement.
 - Workflow/authenticity: Pika history clearly shows several revisions over time, with notes on changes and final materials in your own words.
 
@@ -344,12 +363,12 @@ What to do:
    - Home: short intro and "site tour" telling visitors where to find everything
    - About Me: what health and wellness mean to you (strengths, values) and one story that represents you
    - Personal Wellness Plan: your project from A2, your A7 progress update, your results, and what you learned by the end — plus your plan for staying healthy going forward
-   - Wellness & Health Literacy: your dimensions-of-wellness self-check and how you spot bad health info (A3)
-   - Mental Health: key takeaways on stress and coping (A4)
-   - Nutrition: your food-day analysis and one change you made (A5)
-   - Physical Activity: your activity plan and reflection (A6)
-   - Safety & Relationships: your decision-making and healthy-relationship takeaways (A8)
-   - Health-Promotion Campaign: your campaign from A9
+   - Wellness & Health Literacy: your wellness-wheel self-check and how you spot bad health info (A3)
+   - Mental Health & Digital Wellbeing: key takeaways on stress, coping, and your screen-time habits (A4)
+   - Nutrition: your food-day analysis, media deconstruction, and one change you made (A5)
+   - Physical Activity: your activity plan, log, and reflection (A6)
+   - Substance Use & Safety: your decision-making and marketing-deconstruction takeaways (A8)
+   - Health-Promotion Campaign: your digital campaign from A9
 
 3) Final Reflection: Add a section (on any page, or its own page) with one paragraph on growth, your most useful health habit, and next steps. Include 2–3 sentences on how you used AI throughout this course.
 

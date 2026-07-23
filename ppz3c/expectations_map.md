@@ -13,13 +13,13 @@ Maps each assignment to the PPZ3C overall expectations (see
 |---|------------|----|---|---|---|---|---|
 | A1 | Getting Started | 5% | | ● | | | |
 | A2 | Personal Wellness Project Proposal | 10% | | ● | ● | | |
-| A3 | Dimensions of Wellness & Health Literacy | 5% | ● | ● | | | |
-| A4 | Mental Health & Stress Management | 5% | ● | ● | | | |
-| A5 | Nutrition & Healthy Eating | 10% | ● | ● | ● | | |
-| A6 | Physical Activity & Fitness | 10% | ● | ● | ● | | |
+| A3 | Wellness Wheel & Health Literacy | 5% | ● | ● | | | |
+| A4 | Mental Health & Digital Wellbeing | 5% | ● | ● | | | |
+| A5 | Nutrition: Food Log & Media Deconstruction | 10% | ● | ● | ● | | |
+| A6 | Physical Activity & Home Fitness Plan | 10% | ● | ● | ● | | |
 | A7 | Personal Wellness Project Progress Update | 5% | | ● | ● | | |
-| A8 | Substance Use, Safety & Healthy Relationships | 5% | ● | ● | | ● | |
-| A9 | Healthy Communities — Health-Promotion Campaign | 15% | ● | | | ● | ● |
+| A8 | Substance Use & Personal Safety | 5% | ● | ● | | ● | |
+| A9 | Digital Health-Promotion Campaign | 15% | ● | | | ● | ● |
 | A10 | Final Portfolio & Personal Wellness Plan | 30% | ● | ● | ● | ● | ● |
 
 ## Notes
